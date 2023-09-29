@@ -1,0 +1,17 @@
+image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
+143.jpg,C:\Users\manoj\OneDrive\Desktop\Rice crop disease\Data\Source_Images\Test_Images\143.jpg,590,0,870,1267,1,0.38230961561203003,1267,1267
+152.jpg,C:\Users\manoj\OneDrive\Desktop\Rice crop disease\Data\Source_Images\Test_Images\152.jpg,692,224,1201,1707,1,0.25972670316696167,1925,1925
+blight (12).jpg,C:\Users\manoj\OneDrive\Desktop\Rice crop disease\Data\Source_Images\Test_Images\blight (12).jpg,54,4,117,241,0,0.3508036434650421,165,245
+blight (16).jpg,C:\Users\manoj\OneDrive\Desktop\Rice crop disease\Data\Source_Images\Test_Images\blight (16).jpg,0,83,130,256,0,0.3692363202571869,192,256
+blight (17).jpg,C:\Users\manoj\OneDrive\Desktop\Rice crop disease\Data\Source_Images\Test_Images\blight (17).jpg,0,104,396,161,0,0.598792552947998,396,263
+blight (18).jpg,C:\Users\manoj\OneDrive\Desktop\Rice crop disease\Data\Source_Images\Test_Images\blight (18).jpg,31,108,151,159,0,0.4272072911262512,185,234
+blight (18).jpg,C:\Users\manoj\OneDrive\Desktop\Rice crop disease\Data\Source_Images\Test_Images\blight (18).jpg,0,66,166,94,0,0.5931204557418823,185,234
+blight (6).jpg,C:\Users\manoj\OneDrive\Desktop\Rice crop disease\Data\Source_Images\Test_Images\blight (6).jpg,0,106,360,140,0,0.7704079747200012,360,240
+blight (8).jpg,C:\Users\manoj\OneDrive\Desktop\Rice crop disease\Data\Source_Images\Test_Images\blight (8).jpg,7,77,222,100,0,0.5787869691848755,231,176
+img-12.jpg,C:\Users\manoj\OneDrive\Desktop\Rice crop disease\Data\Source_Images\Test_Images\img-12.jpg,41,0,890,1074,0,0.25735267996788025,1074,1074
+img-76.jpg,C:\Users\manoj\OneDrive\Desktop\Rice crop disease\Data\Source_Images\Test_Images\img-76.jpg,452,0,735,1166,1,0.30794715881347656,1166,1166
+smut (10).jpg,C:\Users\manoj\OneDrive\Desktop\Rice crop disease\Data\Source_Images\Test_Images\smut (10).jpg,79,0,126,236,1,0.40763312578201294,176,236
+white (5).jpg,C:\Users\manoj\OneDrive\Desktop\Rice crop disease\Data\Source_Images\Test_Images\white (5).jpg,249,0,296,128,2,0.2542572319507599,390,260
+white (5).jpg,C:\Users\manoj\OneDrive\Desktop\Rice crop disease\Data\Source_Images\Test_Images\white (5).jpg,244,46,279,111,2,0.2859453856945038,390,260
+white (5).jpg,C:\Users\manoj\OneDrive\Desktop\Rice crop disease\Data\Source_Images\Test_Images\white (5).jpg,130,0,156,79,2,0.3472854197025299,390,260
+white (5).jpg,C:\Users\manoj\OneDrive\Desktop\Rice crop disease\Data\Source_Images\Test_Images\white (5).jpg,256,12,294,52,2,0.35619133710861206,390,260
