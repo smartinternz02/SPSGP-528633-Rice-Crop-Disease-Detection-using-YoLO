@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "31ee461be124d83541a49f5a9f9583bf",
+        "name": "blight%20(1).jpg",
+        "path": "file:C:/Users/lenovo/Desktop/SmartBridge/Mentoring/Rice%20crop%20disease/Data/Source_Images/Training_Images/blight%20(1).jpg",
+        "size": {
+            "width": 401,
+            "height": 240
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "XfiwhUA5e",
+            "type": "RECTANGLE",
+            "tags": [
+                "bacteriral blight"
+            ],
+            "boundingBox": {
+                "height": 22.010976378820533,
+                "width": 166.8641279054336,
+                "left": 149.65155097939976,
+                "top": 145.2037617554859
+            },
+            "points": [
+                {
+                    "x": 149.65155097939976,
+                    "y": 145.2037617554859
+                },
+                {
+                    "x": 316.51567888483333,
+                    "y": 145.2037617554859
+                },
+                {
+                    "x": 316.51567888483333,
+                    "y": 167.21473813430643
+                },
+                {
+                    "x": 149.65155097939976,
+                    "y": 167.21473813430643
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

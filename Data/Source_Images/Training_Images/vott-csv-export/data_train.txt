@@ -1,0 +1,45 @@
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\blight%20(10).jpg 264,135,297,165,0 66,48,113,122,0
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\blight%20(11).jpg 63,1,93,128,0 67,131,84,240,0 87,178,99,223,0
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\blight%20(1).jpg 199,128,266,140,0 1,145,95,156,0 165,145,330,168,0
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\blight%20(12).jpg 69,1,93,244,0 96,1,134,244,0
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\blight%20(13).jpg 15,1,52,123,0 127,0,141,109,0 124,111,136,245,0
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\blight%20(17).jpg 15,95,396,151,0
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\blight%20(16).jpg 0,105,133,235,0
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\blight%20(15).jpg 123,5,183,221,0 11,92,91,162,0
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\blight%20(14).jpg 59,0,301,251,0
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\blight%20(18).jpg 1,97,185,157,0 0,61,156,88,0
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\blight%20(19).jpg 18,96,417,155,0
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\blight%20(20).jpg 1,151,64,228,0 176,99,235,201,0
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\blight%20(2).jpg 136,65,272,115,0 2,0,121,103,0
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\blight%20(3).jpg 47,27,130,255,0
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\blight%20(4).jpg 99,127,159,249,0
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\blight%20(6).jpg 58,98,360,140,0
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\blight%20(9).jpg 64,44,112,207,0
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\blight%20(7).jpg 109,22,150,178,0
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\blight%20(8).jpg 43,81,201,101,0 49,40,220,67,0
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\smut%20(11).jpg 81,33,288,93,1 220,103,311,133,1 17,115,121,172,1
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\smut%20(1).jpg 19,4,133,116,1 135,21,212,198,1 227,11,313,175,1
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\smut%20(10).jpg 71,18,125,230,1
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\smut%20(12).jpg 64,21,150,94,1 69,100,132,217,1 159,12,234,220,1
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\smut%20(13).jpg 135,39,219,96,1 75,132,118,164,1
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\smut%20(2).jpg 1,130,170,200,1 74,68,179,125,1 197,64,313,112,1 178,131,307,177,1
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\smut%20(3).jpg 45,0,209,120,1 57,123,199,248,1 247,1,310,133,1 208,124,272,240,1
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\smut%20(15).jpg 70,112,86,176,1 5,77,34,117,1 96,44,138,103,1 108,120,149,143,2
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\smut%20(4).jpg 243,66,379,105,1
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\smut%20(14).jpg 113,39,243,88,1 191,2,304,40,1 177,117,308,172,1
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\smut%20(5).jpg 139,109,310,154,1
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\smut%20(6).jpg 192,124,334,165,1
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\smut%20(9).jpg 82,43,137,82,1 24,27,82,69,1 138,61,187,100,1 87,171,117,205,1
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\smut%20(7).jpg 3,85,375,178,1
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\smut%20(8).jpg 26,1,110,225,1
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\white%20(11).jpg 54,0,79,149,2 107,1,143,55,2
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\white%20(1).jpg 233,19,266,104,2
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\white%20(10).jpg 175,0,207,127,2 175,143,200,189,2
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\white%20(3).jpg 22,24,45,47,2 100,29,132,76,2 157,16,184,61,2 194,1,217,27,2 237,4,268,56,2 288,30,333,90,2
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\white%20(2).jpg 91,27,171,84,2 235,47,274,98,2 291,35,316,89,2 260,180,290,227,1
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\white%20(8).jpg 12,90,46,139,2 34,31,78,111,2 110,61,198,105,2 210,26,255,89,2
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\white%20(4).jpg 17,154,48,174,2
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\white%20(5).jpg 126,0,164,92,2 245,8,291,105,2
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\white%20(6).jpg 190,44,217,145,2 76,32,117,164,2
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\white%20(7).jpg 149,31,209,164,2
+C:\Users\lenovo\Desktop\SmartBridge\Mentoring\Rice crop disease\Data\Source_Images\Training_Images\vott-csv-export\white%20(9).jpg 184,85,215,109,2 123,107,167,118,2 31,173,78,202,2

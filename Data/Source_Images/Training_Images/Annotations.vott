@@ -1,0 +1,65 @@
+{
+    "name": "Annotations",
+    "securityToken": "Annotations Token",
+    "sourceConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYThiMmUxZTc3NTVjYWY0MGI0MjU0N2Q4N2FlYmQzZTZkYmM3ZTIzNzhhYTljYjNhYTM3MGJhNzc1ODQ5NzRkZThlYjVmNjIxN2MwMjRlYzc4ZWI1MzgwNTBlZWUwYzBjYmVkZDIwN2M2Mjc1MDhkYmNiYmI3ODRlNGFhMDA2NzU4ZDY0MjdkNjRhMzIyNjFmODRjMDllOWFiZmFlYWEzYTg0NmY0OGMxODE4NzE1ZjBhYjMxMjQzMzJmZjc0NjVlIiwiaXYiOiJiZGVhODY0ZWFlOGVjNjQ4NjE3ZmQyODY0MDMwODEzZDU2YWI2YzkwOGYzZTA5OTkifQ=="
+        },
+        "id": "VLmzceKu8"
+    },
+    "targetConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMGVjY2VhMTJmYzQyZDExMTRiZDFiMDgyOTcyNGRkOGI4MWViNDE0MjdhMzRkYmM4NjEwNmMzZTBiZDdkMDVmZThiZGMxMTliMDY1YTMwMjVhYTY2ZDVjODgzM2Q1YjlmZjY1MmQxMDEwYTcyOGU2YmI5MjY4NjUxZGRmYWNiNzEzNmRjZDc4NjQ5MWRjOTNlZGU1ZmU1MmFmZjNkMGE4MzhmYjVkYWI3MmMzNjU5NzEyZDRjZTI5NzJmYmEzN2Q1IiwiaXYiOiI5OTlhZDY5YmNlMDQ4N2U4M2EyNzBmNWNjNjU2MTZiMjMyMjgwZTlkYjg5Nzk1Y2EifQ=="
+        },
+        "id": "VLmzceKu8"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Leaf Blight",
+            "color": "#008080"
+        },
+        {
+            "name": "Leaf Smut",
+            "color": "#0000FF"
+        },
+        {
+            "name": "White Tip",
+            "color": "#000080"
+        }
+    ],
+    "id": "S777cS-EK",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMDllNjA1N2JkYzdjYTlkMjU0Mzg4ZjUxYzFmZjNjY2Q0NjliYTdmNzE2MjMxMDgyZDVjN2JjYjA2YjJjNzFkNjA0MTk5ZGY3N2RhZWZiMzgzMWVjYzY3ZGM2Y2NhZTlhIiwiaXYiOiJjN2Y4NDQzOTlkYzFjMTdkMzQyMDVlY2Q1MmFhMjNiNTljZDcwZmJjMmQ3OGE5OGEifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "ae58898869a239ba21c97f551ed0eae0",
+    "assets": {
+        "ae58898869a239ba21c97f551ed0eae0": {
+            "format": "jpg",
+            "id": "ae58898869a239ba21c97f551ed0eae0",
+            "name": "blight%20(1).jpg",
+            "path": "file:E:/MLDL%20EXTERNSHIP/yolo_structure/Data/Source_Images/Training_Images/blight%20(1).jpg",
+            "size": {
+                "width": 401,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}
